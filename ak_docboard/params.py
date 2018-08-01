@@ -1,0 +1,12 @@
+CRAWLER_TYPE = 'scrapy/manual'
+DATA_SOURCE_ID = 1785
+DATA_SOURCE_NAME = 'stateboards_ak_docboard'
+DS_COV_POP = {'PHYSICIAN': {}}
+DS_DRIVERS = {'LICENSE': {}}
+JIRA = 'KYRUUS-6667'
+INCOMING_FILES = [ '20130214-105637_C20130214_2013-02-14T10-28-06.json.gz']
+STATE = 'AK'
+TYPE = 'stateboard'
+VALIDATED = True
+KYRUUS_CATEGORY = 'physician'
+DISPLAY_URL = 'http://www.docboard.org/ak/'
